@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Snake</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <div class="score">score: <span class="score--value">00</span></div>
+
+<div class="menu">
+    <span class="game-over">game over</span>
+    <span class="final-score">score: <span>00</span></span>
+    <span class="player-name">Jogador: <span id="player-name"></span></span>
+
+    <button class="btn-play">
+        Jogar novamente
+    </button>
+</div>
+
+<div class="start-screen">
+    <input type="text" id="input-name" placeholder="Digite seu nome" maxlength="20">
+    <button class="btn-start">Começar</button>
+</div>
+
+<canvas width="600" height="600"></canvas>
+<script src="js/script.js"></script>
+</body>
+</html>
