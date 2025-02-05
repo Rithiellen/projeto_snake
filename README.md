@@ -1,3 +1,22 @@
+# Jogo da Cobrinha (Snake Game) 🐍
+
+ > Rithiellen Kariny Alves Máxima 🦋
+
+## Regras do Jogo 📑
+
+Esta é uma versão do clássico jogo da cobrinha. 
+As regras são:
+
+- A cobra se move continuamente na direção escolhida pelo jogador.
+
+- O objetivo é comer a comida que aparece aleatoriamente no tabuleiro.
+
+- Cada vez que a cobra come a comida, ela cresce e a pontuação aumenta.
+
+- O jogo termina se a cobra colidir com as bordas do tabuleiro ou com seu próprio corpo.
+
+- Nesta versão, a velocidade da cobra aumenta conforme a pontuação cresce, tornando o jogo mais desafiador.
+
 ## Como Jogar ▶️
 
 Use as setas do teclado para mover a cobra:
